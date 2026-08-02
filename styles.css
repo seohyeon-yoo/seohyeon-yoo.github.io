@@ -59,3 +59,11 @@ body{font-family:"Inter",system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",s
 .news-list p{margin-bottom:18px}
 body{font-weight:300}
 .paper h4,.record h3,.content section>h3{font-weight:600}
+.sidebar>h1{font-size:23px}
+.role{font-size:16px}
+.record{display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:24px}
+.record>div{display:contents}
+.record h3{grid-column:1;grid-row:1}
+.record time{grid-column:2;grid-row:1}
+.record p{grid-column:1/-1}
+@media(max-width:720px){.record{grid-template-columns:1fr;gap:3px}.record time{grid-column:1;grid-row:1}.record h3{grid-row:2}.record p{grid-column:1}}
