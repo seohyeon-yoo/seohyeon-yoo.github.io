@@ -14,8 +14,9 @@
 .sidebar>h1{font-size:26px}.role{font-size:17px;margin-bottom:4px}.social-icons{gap:20px;padding-top:6px}.social-icons a{width:40px;height:40px}.social-icons img,.linkedin-mark{width:38px;height:38px}.linkedin-mark{font-size:24px}.profile-email{margin-top:5px;font-size:16.5px}
 
 /* Final proportion adjustments */
+main{width:min(1020px,calc(100% - 44px))}
 @media(min-width:721px){.layout{grid-template-columns:205px minmax(0,1fr);gap:40px}}
 .paper h4 a,.paper h4 a:visited{color:var(--text)!important}
 .paper-actions{gap:6px;margin-top:9px}
-.paper-actions a{gap:5px;padding:3px 8px;border-radius:7px;font-size:12.5px;line-height:1.35}
-.paper-actions a span,.paper-actions a:first-child span{font-size:15px}
+.paper-actions a{gap:5px;padding:4px 9px;border-radius:7px;font-size:13.5px;line-height:1.35}
+.paper-actions a span{font-size:17px}.paper-actions a:first-child span{font-size:18px}
