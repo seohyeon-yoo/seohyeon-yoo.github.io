@@ -45,3 +45,4 @@ header{position:sticky;top:0;z-index:100;height:68px;background:#fff}
 #publications>h3{padding-bottom:6px;border-bottom:1px dashed #dce8cf}
 .side-news h2{margin-bottom:12px}
 .advisor-link-muted,.advisor-link-muted:visited{color:var(--text)}
+.paper .preprint-note{font-weight:400}
