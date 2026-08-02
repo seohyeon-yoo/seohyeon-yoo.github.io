@@ -28,5 +28,6 @@ main{width:min(950px,calc(100% - 44px))}
 header .site-name{font-size:25px}
 header nav a{font-size:18px}
 .inline-accent-icon{display:inline-block;margin-right:7px;color:var(--link);font-style:normal}
-.research-icon{font-size:18px;vertical-align:1px}
-.profile-email .inline-accent-icon{font-size:18px;line-height:1;vertical-align:-1px}
+.research-icon{font-size:19px;vertical-align:1px}
+.profile-email .inline-accent-icon{font-size:19px;line-height:1;vertical-align:-1px}
+.news-icon{margin-right:7px}
