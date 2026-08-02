@@ -39,8 +39,9 @@ header nav a{font-size:18px}
 header{position:sticky;top:0;z-index:100;height:68px;background:#fff}
 .content section{scroll-margin-top:76px}
 @media(max-width:720px){header{height:auto}}
-.profile-visual .profile-photo{padding:0;object-fit:cover}
+.profile-visual .profile-photo{padding:0;border-width:1px;object-fit:cover}
 .service-list p{margin:0 0 8px;font-size:15.5px;line-height:1.5}
 .service-note{color:#687277}
 #publications>h3{padding-bottom:6px;border-bottom:1px dashed #dce8cf}
 .side-news h2{margin-bottom:12px}
+.advisor-link-muted,.advisor-link-muted:visited{color:var(--text)}
