@@ -67,3 +67,5 @@ body{font-weight:300}
 .record time{grid-column:2;grid-row:1}
 .record p{grid-column:1/-1}
 @media(max-width:720px){.record{grid-template-columns:1fr;gap:3px}.record time{grid-column:1;grid-row:1}.record h3{grid-row:2}.record p{grid-column:1}}
+.news-list time{font-weight:600;margin-bottom:4px}
+.profile-email{font-size:15.5px}
