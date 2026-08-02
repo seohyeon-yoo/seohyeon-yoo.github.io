@@ -20,3 +20,11 @@ main{width:min(950px,calc(100% - 44px))}
 .paper-actions{gap:6px;margin-top:9px}
 .paper-actions a{gap:5px;padding:4px 9px;border-radius:7px;font-size:13.5px;line-height:1.35}
 .paper-actions a span{font-size:17px}.paper-actions a:first-child span{font-size:18px}
+
+/* Brighter sky-blue accent palette */
+:root{--link:#3294b8;--teal:#63a9bc;--line:#deeaed}
+.site-name,.side-news h2{color:#63a9bc}
+.linkedin-mark{background:#3294b8}
+.sidebar>h1{font-size:24px}
+header .site-name{font-size:25px}
+header nav a{font-size:18px}
