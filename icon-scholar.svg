@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><path fill="#53616a" d="M24 5 3 16l21 11 17-9v13h4V16L24 5Z"/><circle cx="24" cy="31" r="11" fill="#53616a"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Google Scholar">
+  <text x="11" y="39" fill="#53616a" font-family="Georgia, 'Times New Roman', serif" font-size="39" font-weight="700">g</text>
+  <path fill="#53616a" d="M24 4 3 14.7 24 25.4l17-8.7v11.6h4V14.7L24 4Z"/>
+  <path fill="#fff" d="M13 16.1 24 21.7l11-5.6v4.4L24 26l-11-5.5v-4.4Z" opacity=".94"/>
+</svg>
