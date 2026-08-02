@@ -30,15 +30,17 @@ header nav a{font-size:18px}
 .inline-accent-icon{display:inline-block;margin-right:7px;color:var(--link);font-style:normal}
 .research-icon{font-size:19px;vertical-align:1px}
 .profile-email .inline-accent-icon{font-size:19px;line-height:1;vertical-align:-1px}
-.news-icon{margin-right:7px}
+.news-icon{margin-right:5px}
 .kakao-impact-logo{display:inline-flex;align-items:center;vertical-align:1px;margin-left:3px;padding:3px 6px;border-radius:8px;background:#30383d}
 .kakao-impact-logo img{display:block;width:54px;height:auto}
 .sidebar>h1{font-weight:400}
-.profile-email{margin-bottom:12px}
-.side-news{padding-top:8px}
+.profile-email{margin-bottom:8px}
+.side-news{padding-top:4px}
 header{position:sticky;top:0;z-index:100;height:68px;background:#fff}
 .content section{scroll-margin-top:76px}
 @media(max-width:720px){header{height:auto}}
-.profile-visual .profile-photo{padding:2px;object-fit:cover}
+.profile-visual .profile-photo{padding:0;object-fit:cover}
 .service-list p{margin:0 0 8px;font-size:15.5px;line-height:1.5}
 .service-note{color:#687277}
+#publications>h3{padding-bottom:6px;border-bottom:1px dashed #dce8cf}
+.side-news h2{margin-bottom:12px}
