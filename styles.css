@@ -31,3 +31,8 @@ header nav a{font-size:18px}
 .research-icon{font-size:19px;vertical-align:1px}
 .profile-email .inline-accent-icon{font-size:19px;line-height:1;vertical-align:-1px}
 .news-icon{margin-right:7px}
+.kakao-impact-logo{display:inline-flex;align-items:center;vertical-align:1px;margin-left:3px;padding:3px 6px;border-radius:8px;background:#30383d}
+.kakao-impact-logo img{display:block;width:54px;height:auto}
+.sidebar>h1{font-weight:400}
+.profile-email{margin-bottom:12px}
+.side-news{padding-top:8px}
