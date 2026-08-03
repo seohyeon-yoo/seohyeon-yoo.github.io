@@ -80,3 +80,4 @@ body{font-weight:300}
 #service>h2{margin-bottom:10px}
 #service>h2+h3{margin-top:10px}
 .social-icons img.linkedin-icon{width:34px;height:34px}
+@media(min-width:721px){header nav{transform:translateX(8px)}}
