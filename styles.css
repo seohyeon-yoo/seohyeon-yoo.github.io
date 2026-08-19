@@ -86,3 +86,12 @@ body{font-weight:300}
 .profile-email{font-size:14.5px}
 #about>p{font-size:16.5px}
 .record{row-gap:2px;margin-bottom:25px}
+
+/* Larger text inside Publications, Experience, Education, and Service */
+.content section>h3{font-size:19px}
+.paper h4{font-size:18.5px}
+.paper p{font-size:15.5px}
+.record h3{font-size:19px}
+.record p{font-size:15.5px}
+.record time{font-size:14.5px}
+.service-list p{font-size:15.5px}
