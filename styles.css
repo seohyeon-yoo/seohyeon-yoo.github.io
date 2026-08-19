@@ -98,3 +98,5 @@ body{font-weight:300}
 .news-list p{font-size:14.5px}
 .news-list time{font-size:15px}
 @media(min-width:721px){.profile-visual{width:172px;height:172px}.profile-visual .profile-photo{width:158px;height:158px}}
+.news-list p{font-weight:400}
+.news-list p strong,.news-list p .location{font-weight:400}
