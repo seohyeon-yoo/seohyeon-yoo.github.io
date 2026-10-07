@@ -129,3 +129,15 @@ body{font-weight:300}
 .profile-photo-frame{width:100%;height:100%;border-radius:50%;overflow:hidden}
 .profile-photo-frame .profile-photo{width:100%;height:100%;margin:0;border:1px solid #fff;padding:0;object-fit:cover;object-position:center center;transform:scale(1.08);transform-origin:center center}
 @media(min-width:721px){.profile-visual{width:184px;height:184px}}
+
+/* Slightly lighter and more compact academic-section typography */
+#publications>h3,#experience>h3,#education>h3,#service>h3{font-size:19.5px;font-weight:600}
+.paper h4{font-size:19.5px;font-weight:600}
+.paper p{font-size:16px}
+.paper-actions a{font-size:14px}
+.record h3{font-size:20px;font-weight:600}
+.record p{font-size:16px}
+.record time{font-size:15px}
+#service .service-list p{font-size:16.5px}
+#publications strong,#experience strong,#education strong,#service strong,.paper p strong{font-weight:600}
+.paper p strong{font-weight:500}
