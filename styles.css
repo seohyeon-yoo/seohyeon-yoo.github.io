@@ -148,5 +148,5 @@ body{font-weight:300}
 #publications>h3{border-bottom-color:#b9cf98}
 
 /* Medium-soft emphasis */
-#publications>h3,#experience>h3,#education>h3,#service>h3,.paper h4,.record h3,#publications strong,#experience strong,#education strong,#service strong,.paper .venue,.paper-actions a{font-weight:550}
-.paper p strong{font-weight:550;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:2px}
+#publications>h3,#experience>h3,#education>h3,#service>h3,.paper h4,.record h3,#publications strong,#experience strong,#education strong,#service strong,.paper .venue,.paper-actions a{font-weight:530}
+.paper p strong{font-weight:530;text-decoration:none}
