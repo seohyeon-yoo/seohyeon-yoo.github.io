@@ -90,12 +90,12 @@ body{font-weight:300}
 /* Larger text inside Publications, Experience, Education, and Service */
 .content section>h3{font-size:19px}
 .paper h4{font-size:18.5px}
-.paper p{font-size:15.5px}
+.paper p{font-size:16px}
 .record h3{font-size:19px}
-.record p{font-size:15.5px}
+.record p{font-size:16px}
 .record time{font-size:14.5px}
 .service-list p{font-size:15.5px}
-.news-list p{font-size:14.5px}
+.news-list p{font-size:15px}
 .news-list time{font-size:15px}
 @media(min-width:721px){.profile-visual{width:172px;height:172px}.profile-visual .profile-photo{width:158px;height:158px}}
 .news-list p{font-weight:400}
@@ -154,13 +154,13 @@ body{font-weight:300}
 /* Slightly smaller academic-section type */
 #publications>h3,#experience>h3,#education>h3,#service>h3{font-size:19px}
 .paper h4{font-size:19px}
-.paper p{font-size:15.5px}
+.paper p{font-size:16px}
 .paper-actions a{font-size:13.5px}
 .record h3{font-size:19.5px}
-.record p{font-size:15.5px}
+.record p{font-size:16px}
 .record time{font-size:14.5px}
 #service .service-list p{font-size:16px}
 
 /* Match the density of the remaining content sections */
-#about>p{font-size:15.5px}
-.news-list p{font-size:14.5px}
+#about>p{font-size:16px}
+.news-list p{font-size:15px}
