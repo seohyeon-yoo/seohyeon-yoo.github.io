@@ -150,3 +150,17 @@ body{font-weight:300}
 /* Medium-soft emphasis */
 #publications>h3,#experience>h3,#education>h3,#service>h3,.paper h4,.record h3,#publications strong,#experience strong,#education strong,#service strong,.paper .venue,.paper-actions a{font-weight:530}
 .paper p strong{font-weight:530;text-decoration:none}
+
+/* Slightly smaller academic-section type */
+#publications>h3,#experience>h3,#education>h3,#service>h3{font-size:19px}
+.paper h4{font-size:19px}
+.paper p{font-size:15.5px}
+.paper-actions a{font-size:13.5px}
+.record h3{font-size:19.5px}
+.record p{font-size:15.5px}
+.record time{font-size:14.5px}
+#service .service-list p{font-size:16px}
+
+/* Match the density of the remaining content sections */
+#about>p{font-size:15.5px}
+.news-list p{font-size:14.5px}
